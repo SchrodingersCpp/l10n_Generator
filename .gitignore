@@ -1,0 +1,7 @@
+!.gitignore
+*~
+.~lock.*#
+*.[Cc][Ss][Vv]
+*.[Jj][Ss][Oo][Nn]
+__pycache__/
+
